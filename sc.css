@@ -1,0 +1,46 @@
+input[id="passwdsIn"]{
+    border:none; width:70%;
+    outline:none;
+    border-bottom:3px solid red;
+    display:block; 
+    position:relative;
+    font-size:19px;
+    text-align:center;
+    top:30px;
+    margin:auto;
+    margin-bottom:40px;
+    user-select:auto;
+    color:#fff;
+    background-color:#152238;
+}
+button {
+    float:right;
+    
+}
+.ed-content {
+    text-align:center;
+    color:#fff;
+}
+a:link {
+  text-decoration: none;
+  color:#fff;
+}
+a:visited {
+  text-decoration: none;
+  color:#fff;
+}
+a:hover {
+  text-decoration: none;
+  color:#fff;
+}
+a:active {
+  text-decoration: none;
+  color:#fff;
+}
+body {
+    background-color:#152238;
+}
+hr {
+    width:auto;
+    border:0.1px solid #fff;
+}
